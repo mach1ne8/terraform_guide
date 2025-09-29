@@ -1,0 +1,14 @@
+secret_key = "EC2_SECRET_KEY"
+access_key = "{C2_PROJECT}:{BASE_ACCESS_KEY}"
+public_key = "ssh-rsa pub key ...."
+# pubkey_name      = "terra"
+# # bucket_name      = "My-project-bucket"
+# az               = "ru-msk-comp1p"
+# eips_count       = 1
+# vms_count        = 1
+# hostnames        = ["terraform"]
+# allow_tcp_ports  = [22]
+# vm_template      = "cmi-C45746AF"
+# vm_instance_type = "c7.large"
+# vm_volume_type   = "st2"
+# vm_volume_size   = 32
